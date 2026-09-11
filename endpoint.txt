@@ -1,1 +1,1 @@
-https://contracting-aged-proc-hybrid.trycloudflare.com
+https://api.trycloudflare.com
